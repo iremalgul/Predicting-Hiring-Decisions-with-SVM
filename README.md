@@ -26,15 +26,14 @@ Bu proje, adayların teknik skorları ve deneyim seviyelerine göre işe alını
 
 ## 📂 Proje Dosya Yapısı
 
-📁 Predicting Hiring Decisions with SVM/ 
-│
-   ├── candidate_selector.py # Model sınıfı, veri üretimi, eğitim ve değerlendirme 
-   ├── main.py # FastAPI uygulaması ve servis endpoint'i 
-   ├── decision_boundary.png # Modelin karar sınırlarını gösteren görsel └── requirements.txt # Gerekli kütüphaneler 
+📁 Predicting Hiring Decisions with SVM/  
+│  
+├── candidate_selector.py          # Model sınıfı, veri üretimi, eğitim ve değerlendirme  
+├── main.py                        # FastAPI uygulaması ve servis endpoint'i  
+├── decision_boundary.png          # Modelin karar sınırlarını gösteren görsel  
+└── requirements.txt              # Gerekli kütüphaneler  
 
-markdown
-Kopyala
-Düzenle
+
 
 ## ⚙️ Nasıl Çalıştırılır?
 
